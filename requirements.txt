@@ -1,0 +1,12 @@
+All the necessaries libraries are listed below:
+> Pandas
+> Numpy
+> Matplotlib
+> Seaborn
+> Plotly
+> Geopandas
+> Geoplot
+> Squarify
+> Shapely
+
+If one is working on Jupyter or Google Colab, it may be necessary to pip install geopandas, geoplot, and squarify.
