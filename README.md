@@ -18,4 +18,4 @@ Given a New York City traffic accident data for 2020, we would like to answer qu
 There is 1 python notebook available here to showcase work related to the questions posed above. Markdown cells were used to assist in walking through the thought process for individual steps. There are 2 csv files here; the NYC accident dataset and Borough population density dataset.
 
 ## Licensing, Authors, and Acknowledgements
-Maven Analytics is due credit for the data.
+UCI is due credit for the data.
